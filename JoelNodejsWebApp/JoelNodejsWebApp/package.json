@@ -1,0 +1,9 @@
+{
+  "name": "joel-nodejs-web-app",
+  "version": "0.0.0",
+  "description": "JoelNodejsWebApp",
+  "main": "server.js",
+  "author": {
+    "name": "Joel Whayoung Kim"
+  }
+}
